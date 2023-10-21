@@ -1,0 +1,25 @@
+{
+  "name": "sso",
+  "version": "1.0.0",
+  "description": "single sign on app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PEAK-ST/sso.git"
+  },
+  "keywords": [
+    "single",
+    "sign",
+    "on",
+    "sso"
+  ],
+  "author": "Prashant Shukla",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PEAK-ST/sso/issues"
+  },
+  "homepage": "https://github.com/PEAK-ST/sso#readme"
+}
